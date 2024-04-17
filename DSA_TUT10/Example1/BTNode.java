@@ -4,7 +4,7 @@
  * @author (nxthang) 
  * @version (1.0)
  */
-package DSA_TUT10.Example1;
+package DSAall.DSA_TUT10.Example1;
 public class BTNode
 {
     private String label;
@@ -28,5 +28,9 @@ public class BTNode
     {
         return label;
 
+    }
+
+    public void test(){
+        System.out.println("asdjansdjnasd");
     }
 }
