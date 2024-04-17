@@ -1,4 +1,4 @@
-package DSA_TUT8;
+package DSAall.DSA_TUT8;
 
 import java.util.EmptyStackException;
 

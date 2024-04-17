@@ -3,7 +3,7 @@
  * @author (nxthang)
  * @version (1.0)
  */
-package DSA_TUT10.Example2;
+package DSAall.DSA_TUT10.Example2;
 public class BinarySearchTree
 {
     BSTNode root;

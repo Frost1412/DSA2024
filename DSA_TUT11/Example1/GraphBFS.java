@@ -3,7 +3,7 @@
  * @author (nxthang) 
  * @version (1.0)
  */
-package DSA_TUT11.Example1;
+package DSAall.DSA_TUT11.Example1;
 public class GraphBFS
 {
     private static int n=7;
